@@ -142,3 +142,13 @@
 # print(l)
 
 
+# # p52
+#
+# from functools import reduce
+#
+# l = [1, 5, 7, 12, -2]
+#
+# a = reduce(lambda x, y: x + y if (l.index(y) % 2 != 0) else x - y , l)
+# print(a)
+
+
