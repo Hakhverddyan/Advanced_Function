@@ -1,6 +1,6 @@
 # p26
 # l = ['a','b','c','d']
-# a = list(map(lambda x:int(x)*2,l))
+# a = list(map(lambda x:x*2,l))
 # print(a)
 
 # p27
